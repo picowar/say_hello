@@ -2,6 +2,6 @@ package say_hello
 
 import "fmt"
 
-func say_hello() {
+func SayHello() {
 	fmt.Println("you are a dingus")
 }
